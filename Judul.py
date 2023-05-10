@@ -1,0 +1,6 @@
+print("===========================================")
+print("{|    TUGAS COMPUTATIONAL BIOLOGY LAB   |}")
+print("{| 1. NAMA   = ADEVA SATRIA ARIF WIBAWA |}")
+print("{| 2. NIM    = 2502012464               |}")
+print("{| 1. KELAS  = BA20                     |}")
+print("===========================================")
