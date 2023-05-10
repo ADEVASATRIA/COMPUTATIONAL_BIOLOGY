@@ -1,5 +1,7 @@
 # COMPUTATIONAL_BIOLOGY
 
+![THUMNAIL ](./thumnail.png)
+
 # DEKRIPSI 
   Pada repository ini akan berisi mengenai hasil practikum dari Computational Biology 
 
